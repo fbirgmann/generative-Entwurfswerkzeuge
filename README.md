@@ -15,7 +15,7 @@ Das Projekt besteht aus zwei voneinander unabhängigen, jedoch logisch miteinand
    Generiert verschiedene räumliche Organisationsformen für gemeinschaftliche Wohnstrukturen auf Basis definierter Regeln.
 
 <p align="center">
-  <img src="images/strukturplan.jpg" width="60%">
+  <img src="images/Strukturplan.jpg" width="60%">
 </p>
 
 2. **Reuse-Fassadengenerator**  
